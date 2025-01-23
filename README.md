@@ -2,8 +2,6 @@
 
 This project is part of my **Tabular Data Science** class and focuses on predicting the popularity of songs using their audio features. The project explores the relationships between features such as danceability, tempo, energy, acousticness, and popularity while leveraging machine learning techniques to develop a robust model.  
 
-Additionally, I had the support of **ChatGPT** to refine ideas, implement code, and improve documentation during the development of this project.
-
 ---
 
 ## Table of Contents
@@ -82,12 +80,12 @@ The project contains the following files:
 ## Results
 
 1. **Baseline Model**:
-   - RMSE: *<insert value>*
-   - R²: *<insert value>*
+   - RMSE: *18.6121*
+   - R²: *0.2814*
    
 2. **Improved Model**:
-   - RMSE: *<insert value>*
-   - R²: *<insert value>*
+   - RMSE: *17.7321*
+   - R²: *0.3478*
 
 The improved model outperforms the baseline by effectively leveraging feature engineering, data balancing, and hyperparameter tuning.
 
